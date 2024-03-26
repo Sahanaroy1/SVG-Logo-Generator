@@ -33,7 +33,7 @@
 
 
 # Snippet of the test cases:
-
+<img width="515" alt="Test" src="https://github.com/Sahanaroy1/SVG-Logo-Generator/assets/127791384/4017b97c-b534-495e-8bae-84fddfe6a984">
 
 
 
