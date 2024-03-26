@@ -27,7 +27,7 @@
 
 
 ## Github Url:
-
+https://github.com/Sahanaroy1/SVG-Logo-Generator
 
 # Snippet of the SVG Logo:
 <img width="391" alt="Logo" src="https://github.com/Sahanaroy1/SVG-Logo-Generator/assets/127791384/13086c89-820f-4743-b52c-1bf0d74bd8bc">
