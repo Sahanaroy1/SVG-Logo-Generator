@@ -21,10 +21,8 @@
 * It's done when the browser is opened a 300 X 200 pixel image is shown.
 * It's done when I run npm test all test cases are passed.
 
-
 ## Walkthrough video url:
-
-
+https://vimeo.com/927544063/6dcd2a7797?share=copy
 
 ## Github Url:
 https://github.com/Sahanaroy1/SVG-Logo-Generator
